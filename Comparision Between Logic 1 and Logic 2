@@ -1,0 +1,16 @@
+| Feature               | Logic-1 (Table-Driven AI) | Logic-2 (Rule-Based AI) |
+|-----------------------|--------------------------|--------------------------|
+| AI Type               | Table-Driven              | Rule-Based               |
+| Decision Method       | Lookup Table              | Strategy Rules           |
+| Knowledge Storage     | Precomputed Move Table    | No Stored Table          |
+| Memory Usage          | High                      | Low                      |
+| Flexibility           | Low                       | High                     |
+| Scalability           | Poor                      | Better                   |
+| Intelligence Type     | Stored Knowledge          | Reasoning-Based          |
+| Human-like Thinking   | No                        | Yes                      |
+| Real-Time Decision    | No                        | Yes                      |
+| Adaptability          | Fixed                     | Dynamic                  |
+| Computation During Play | None                    | Yes (Rule Evaluation)    |
+| Suitability for Large Games | Not Suitable        | More Suitable            |
+
+Logic-1 is knowledge-intensive, whereas Logic-2 is reasoning-intensive.
